@@ -1,3 +1,3 @@
-# value -> subkey pattern
-key = value
-key.subkey = another-value
+version https://git-lfs.github.com/spec/v1
+oid sha256:b091c14d9e04a3d88ccc2f93187fb438a51ef3d5654970e164af0bc8ea7ffa20
+size 65

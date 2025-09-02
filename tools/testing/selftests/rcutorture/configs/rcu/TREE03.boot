@@ -1,6 +1,3 @@
-rcutorture.onoff_interval=200 rcutorture.onoff_holdoff=30
-rcutree.gp_preinit_delay=12
-rcutree.gp_init_delay=3
-rcutree.gp_cleanup_delay=3
-rcutree.kthread_prio=2
-threadirqs
+version https://git-lfs.github.com/spec/v1
+oid sha256:c515475599df447209c689d152ad5b9705290b13547b3009afe6f6327eebc81d
+size 171

@@ -1,12 +1,3 @@
-key {
-  word {
-    tree {
-      value = "0"}
-  }
-  word2 {
-    tree {
-      value = 1,2 }
-  }
-}
-other.tree {
-  value = 2; value2 = 3;}
+version https://git-lfs.github.com/spec/v1
+oid sha256:359965e820961d0fb5ae2494b0711987fdfb8a9ddc5ad6c0fc06a124b44a3a6d
+size 135

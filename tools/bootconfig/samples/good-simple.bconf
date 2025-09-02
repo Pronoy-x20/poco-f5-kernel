@@ -1,11 +1,3 @@
-# A good simple bootconfig
-
-key.word1 = 1
-key.word2=2
-key.word3 = 3;
-
-key {
-word4 = 4 }
-
-key { word5 = 5; word6 = 6 }
-
+version https://git-lfs.github.com/spec/v1
+oid sha256:171d7be254d21a75228e8d09dc3acf5adb876046ebd726f95dc2fae4c0066394
+size 119

@@ -1,4 +1,3 @@
-# single key style
-key = 1
-key2 = 2
-key3 = "alpha", "beta"
+version https://git-lfs.github.com/spec/v1
+oid sha256:09750b5dcddeea045b7e02ee86da84ae83221e30a5d3381d0f7df95760327f1e
+size 59

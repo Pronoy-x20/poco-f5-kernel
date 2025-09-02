@@ -1,6 +1,3 @@
-# Same key value is not allowed
-key {
-	foo = value
-	bar = value2
-}
-key.foo = value
+version https://git-lfs.github.com/spec/v1
+oid sha256:49aa9fa4bb9382c03f41f9927af393c8b13201426eebb41904307117efe57d32
+size 83

@@ -1,4 +1,3 @@
-key = foo
-keyx.subkey = value
-key += bar
-
+version https://git-lfs.github.com/spec/v1
+oid sha256:f7170bf611358b5c8e6ce9ef817470a290d75d1010f07029bd8793e41acfea9c
+size 42

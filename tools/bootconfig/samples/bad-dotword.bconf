@@ -1,4 +1,3 @@
-# do not start keyword with .
-key {
-  .word = 1
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:b46aa019060b13cb4dfd90ec15da08224ccbdd593cd9167385fe871eed79daa7
+size 50

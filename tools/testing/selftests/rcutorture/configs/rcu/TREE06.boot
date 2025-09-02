@@ -1,5 +1,3 @@
-rcupdate.rcu_self_test=1
-rcutree.rcu_fanout_exact=1
-rcutree.gp_preinit_delay=3
-rcutree.gp_init_delay=3
-rcutree.gp_cleanup_delay=3
+version https://git-lfs.github.com/spec/v1
+oid sha256:9eafed7dacb17bc0c7cbc16782b063f034bad46bcdad7168eb9c1d7fca2ae042
+size 130

@@ -1,5 +1,3 @@
-key =	# comment
-	"value1",	  # comment1
-	"value2" 	  # comment2
-,
-	"value3"
+version https://git-lfs.github.com/spec/v1
+oid sha256:e0cf1cb53355da1576b133b2d4ad75708c9fe7aece3fd601a09f7f7bcb2c5d95
+size 76

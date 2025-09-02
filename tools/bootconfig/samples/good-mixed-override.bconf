@@ -1,4 +1,3 @@
-key.foo = bar
-key = value
-# mixed key value can be overridden
-key := value2
+version https://git-lfs.github.com/spec/v1
+oid sha256:738b805faabd82f734f3b5418e897567d008ed81dd28aaac8774716cebf20aff
+size 76

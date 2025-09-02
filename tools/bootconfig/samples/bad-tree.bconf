@@ -1,5 +1,3 @@
-# brace is not closing
-tree {
-  node {
-    value = 1
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:cae0e4fb507c6fbf07cfc2b073e3bc6e6a5275cc90bc9411abf8d69fc4cd94a0
+size 55
